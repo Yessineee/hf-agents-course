@@ -1,0 +1,4 @@
+gradio
+requests
+gradio[oauth]
+beautifulsoup4
